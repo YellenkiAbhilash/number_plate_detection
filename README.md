@@ -1,4 +1,4 @@
-# 🚗 Vehicle Counter and Tracker with OpenCV
+# 🚗 Number Plate Detection
 
 This project is a Python-based vehicle counting and tracking system using OpenCV. It processes a video input, detects moving vehicles, tracks their paths, and counts how many pass **upward** and **downward** across predefined lines.
 
